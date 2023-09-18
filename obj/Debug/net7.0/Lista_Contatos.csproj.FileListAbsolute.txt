@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\bin\Debug\net7.0\Lista_Contatos.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\bin\Debug\net7.0\Lista_Contatos.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\bin\Debug\net7.0\Lista_Contatos.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\bin\Debug\net7.0\Lista_Contatos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\bin\Debug\net7.0\Lista_Contatos.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\Lista_Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\Lista_Contatos.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\Lista_Contatos.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\Lista_Contatos.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\Lista_Contatos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\refint\Lista_Contatos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\Lista_Contatos.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\Lista_Contatos.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\Lista_Contatos\obj\Debug\net7.0\ref\Lista_Contatos.dll
