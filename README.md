@@ -1,1 +1,1 @@
-Lista de contatos básica criada em C#
+Agenda de contatos básica criada em C#

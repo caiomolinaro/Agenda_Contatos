@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Lista_Contatos.csproj": {}
+    "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Agenda_Contatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Lista_Contatos.csproj": {
+    "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Agenda_Contatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Lista_Contatos.csproj",
-        "projectName": "Lista_Contatos",
-        "projectPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Lista_Contatos.csproj",
+        "projectUniqueName": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Agenda_Contatos.csproj",
+        "projectName": "Agenda_Contatos",
+        "projectPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Agenda_Contatos.csproj",
         "packagesPath": "C:\\Users\\cmoli\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\obj\\",
         "projectStyle": "PackageReference",
