@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Agenda_Contatos.csproj",
+      "projectUniqueName": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Agenda_Contatos\\Agenda_Contatos.csproj",
       "projectName": "Agenda_Contatos",
-      "projectPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\Agenda_Contatos.csproj",
+      "projectPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Agenda_Contatos\\Agenda_Contatos.csproj",
       "packagesPath": "C:\\Users\\cmoli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Lista_Contatos\\obj\\",
+      "outputPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\Agenda_Contatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmoli\\AppData\\Roaming\\NuGet\\NuGet.Config",

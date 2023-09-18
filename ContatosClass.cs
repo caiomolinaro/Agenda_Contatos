@@ -2,7 +2,7 @@
 {
     public class ContatosClass
     {
-        public ContatosClass(string nome, int telefone, string email)
+        public ContatosClass(string nome, double? telefone, string email)
         {
             this.nome = nome;
             this.telefone = telefone;
@@ -10,7 +10,7 @@
         }
 
         public string nome { get; set; }
-        public int telefone { get; set; }
+        public double? telefone { get; set; }
         public string email {  get; set; }
     }
 }
