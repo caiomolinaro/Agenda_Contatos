@@ -2,15 +2,16 @@
 
 using Lista_Contatos;
 
-List<ContatosClass> listaContatos;
-
-listaContatos = new List<ContatosClass>();
+List<ContatosClass> listaContatos = new();
 
 bool condicao = true;
 
 do
 {
-    Console.WriteLine("Digite 1 para adicionar um novo contato, Digite 2 para visualizar todos os contatos, Digite 3 para sair");
+    Console.WriteLine("Digite 1 para adicionar um novo contato\n" +
+        "Digite 2 para visualizar todos os contatos\n" +
+        "Digite 3 para sair");
+    Console.WriteLine(">>");
     string opcao = Console.ReadLine();
 
     double? telefone = null;
@@ -22,7 +23,7 @@ do
 
             try
             {
-                Console.WriteLine("Digite o Nº de telefone do contato:");
+                Console.WriteLine("Digite o numero de telefone do contato:");
                 telefone = Convert.ToDouble(Console.ReadLine());
             }
             catch (FormatException ex)
@@ -56,7 +57,7 @@ do
             {
                 try
                 {
-                    Console.WriteLine("Digite o numero do contato que deseja apagar:");
+                    Console.WriteLine("Digite o id do contato que deseja apagar:");
                     int numContato = Convert.ToInt32(Console.ReadLine());
                     listaContatos.Remove(listaContatos[numContato]);
                     Console.Clear();
@@ -66,21 +67,21 @@ do
                 catch (ArgumentOutOfRangeException ex)
                 {
                     Console.Clear();
-                    Console.WriteLine("Nº do contato não existe");
+                    Console.WriteLine("ID do contato não existe");
                     Console.WriteLine(ex.Message);
                     break;
                 }
                 catch (IndexOutOfRangeException ex)
                 {
                     Console.Clear();
-                    Console.WriteLine("Nº do contato não existe");
+                    Console.WriteLine("ID do contato não existe");
                     Console.WriteLine(ex.Message);
                     break;
                 }
                 catch (Exception ex)
                 {
                     Console.Clear();
-                    Console.WriteLine("Nº do contato não existe");
+                    Console.WriteLine("ID do contato não existe");
                     Console.WriteLine(ex.Message);
                     break;
                 }
@@ -115,6 +116,6 @@ static void exibirContatos(List<ContatosClass> listaContatos)
     foreach (var listaC in listaContatos)
     {
 
-        Console.WriteLine($"Nº {listaContatos.IndexOf(listaC)} | Nome: {listaC.nome}, Telefone: {listaC.telefone}, email: {listaC.email}");
+        Console.WriteLine($"IDº {listaContatos.IndexOf(listaC)} | Nome: {listaC.nome}, Telefone: {listaC.telefone}, email: {listaC.email}");
     }
 }
